@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WisataKu</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="detail_list">List Detail Tempat</string>
+    <string name="judul_detail">Judul Detail</string>
+    <string name="isi_detail">Isi Detail</string>
+    <string name="detail_highlight">Highlights</string>
+    <string name="isi_highlight">Isi Highlights</string>
+    <string name="fasilitas">Facilities</string>
+    <string name="isi_fasilitas">Isi Fasilitas</string>
+    <string name="tiket_masuk">Entrance Ticket</string>
+    <string name="harga_tiket">IDR 100.000</string>
+    <string name="namaku">Marva Athatillah Ahnaf</string>
+    <string name="askot">Kota Yogyakarta, Daerah Istimewa Yogyakarta</string>
+    <string name="email">ahnafmarva@gmail.com</string>
+    <string name="Popular">Popular</string>
+</resources>
